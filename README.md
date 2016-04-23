@@ -1,6 +1,7 @@
 # CompetitiveCodingSolutions
 
-##Hackerrank  
+##Hackerrank 
+1.FlippingBits 
 
 ##CodeChef  
 

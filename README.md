@@ -7,6 +7,7 @@
 4.Funny String  
 
 ##CodeChef  
+1.FSQRT  
 
 ##SPOJ  
 

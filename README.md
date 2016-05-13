@@ -8,6 +8,7 @@
 
 ##CodeChef  
 1.FSQRT  
+2.TRISQ  
 
 ##SPOJ  
 

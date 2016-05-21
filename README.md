@@ -6,6 +6,7 @@
 3.Sherlock and Beast  
 4.Funny String  
 5.Fibonacci Modified    
+6.Ruby Object Methods  
 
 ##CodeChef  
 1.FSQRT  

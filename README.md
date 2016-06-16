@@ -16,5 +16,7 @@
 
 ##SPOJ  
 1.PRIME  
+2.ABSYS  
+
 
 

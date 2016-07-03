@@ -12,7 +12,9 @@
 3.Sherlock and Beast  
 4.Funny String  
 5.Fibonacci Modified    
-6.Ruby Object Methods  
+6.Ruby Object Methods
+7.PrintElementsLL  
+8.SolveMeFirstLP
 
 ##SPOJ  
 1.PRIME  

@@ -14,7 +14,9 @@
 5.Fibonacci Modified    
 6.Ruby Object Methods
 7.PrintElementsLL  
-8.SolveMeFirstLP
+8.SolveMeFirstLP  
+9.WeekOfCode21Kangaroo  
+10.WeekOfCode21LuckyCharm 	
 
 ##SPOJ  
 1.PRIME  

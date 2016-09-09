@@ -27,3 +27,21 @@ long long int solve(long long int start, long long int end, long long int day) {
 	return ans;
 }
 
+int main() {
+	long long int N, i, j;
+	cin>>N;
+	for(i = 0; i < N; i++) {
+		cin>>A[i];
+	}
+	for(i = 0; i < N; i++) {
+		for(j = 0; j < N; j++) {
+			HT[i][j] = -1;
+		}
+	}
+	if(N == 1) {
+		cout<<A[0];
+		return 0;
+	}
+	cout<<max(A[0]+solve(1, N-1, 2), A[N-1]+solve(0, N-2, 2));
+	return 0;
+}

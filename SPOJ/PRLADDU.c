@@ -11,7 +11,33 @@ int main() {
 		}
 		i = 0;
 		units = 0;
-		s}
+		while (i < n) {
+			if (D[i] < 0) {
+				j = 0;
+				while (D[i] < 0) {
+					if (D[j] > 0) {
+						if (D[j] > (-1)*(D[i])) {
+							if(j>i)
+								units += (j-i) * (-1)*(D[i]);
+							else
+								units += (i-j) * (-1)*(D[i]);
+							D[j] += D[i];
+							D[i] = 0;
+						}
+						else {
+							if(j>i)
+								units += (j-i) * D[j];
+							else
+								units += (i-j) * D[j];
+							D[i] += D[j];
+							D[j] = 0;
+						}
+					}
+					j++;
+				}
+			}
+			i++;
+		}
 	printf("%lld\n", units);
 	}
 }

@@ -21,7 +21,8 @@
 12.Ruby-ObjectMethods.rb  
 13.Pangram.py  
 14.Mansas and Stones  
-
+15.Chocolate Feast  
+16.Cavity Map  
 
 ##SPOJ  
 1.PRIME  
